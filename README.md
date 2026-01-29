@@ -6,25 +6,19 @@ A modern, full-stack notes application built with React and Node.js. Create, edi
 
 ## Screenshots
 
-### Home Page
-<img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/home.png" width="600" alt="Home Page">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/home.png" width="45%" alt="Home Page">
+  <img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/add-note.png" width="45%" alt="Add Note">
+</div>
 
-*View all your notes in a beautiful grid layout with edit and delete options*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/edit-note.png" width="45%" alt="Edit Note">
+  <img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/404.png" width="45%" alt="404 Page">
+</div>
 
-### Add Note
-<img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/add-note.png" width="600" alt="Add Note">
-
-*Create new notes with title, content, and tags*
-
-### Edit Note
-<img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/edit-note.png" width="600" alt="Edit Note">
-
-*Update existing notes with pre-populated data*
-
-### 404 Page
-<img src="https://raw.githubusercontent.com/Aryansharma-ent/Notes-Maintaining-app/main/screenshots/404.png" width="600" alt="404 Page">
-
-*Custom error page with smooth animations*
+<p align="center">
+  <em>Home Page • Add Note • Edit Note • 404 Page</em>
+</p>
 
 ## Features
 
