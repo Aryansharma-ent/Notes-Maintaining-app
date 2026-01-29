@@ -7,19 +7,19 @@ A modern, full-stack notes application built with React and Node.js. Create, edi
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](screenshots/home.png)
 *View all your notes in a beautiful grid layout with edit and delete options*
 
 ### Add Note
-![Add Note](./screenshots/add-note.png)
+![Add Note](screenshots/add-note.png)
 *Create new notes with title, content, and tags*
 
 ### Edit Note
-![Edit Note](./screenshots/edit-note.png)
+![Edit Note](screenshots/edit-note.png)
 *Update existing notes with pre-populated data*
 
 ### 404 Page
-![404 Page](./screenshots/404.png)
+![404 Page](screenshots/404.png)
 *Custom error page with smooth animations*
 
 ## Features
